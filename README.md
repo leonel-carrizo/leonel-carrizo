@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonel-carrizo
 - 👀 I’m interested in software development, artificial intelligence and cybersecurity.
-- 🌱 I’m currently learning Python, Java, Git, C#.
+- 🌱 I’m currently learning Python, Java, Git, JavaScript, HTLM, CSS, ReactJS, JQuery, Spring.
 - 💞️ I’m looking to collaborate on software maintenance projects where I can gain experience. 
 - 📫 How to reach me: You can send me a email to info@leonelcarrizo.com
 
