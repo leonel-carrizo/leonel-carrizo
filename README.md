@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Python, JavaScript, ReactJS, DJango, Java, Spring**
 
-- 🤝 I’m looking for help with **software engineering**
+- 🤝 I’m looking for help with **ReactJS, DJango, Nodee**
 
 - 👨‍💻 All of my projects are available at [leonelcarrizo.com](https://leonelcarrizo.com)
 
@@ -14,6 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
+<a href="mailto:info@leonelcarrizo.com" target="blank"><img align="center" src="https://github.com/leonel-carrizo/leonel-carrizo/blob/main/mail-email-svgrepo-com.svg" alt="info@leonelcarrizo.com" height="30" width="40" /></a>  
 <a href="https://twitter.com/_leocarrizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_leocarrizo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonel-carrizo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonel-carrizo/" height="30" width="40" /></a>
 <a href="https://instagram.com/leonel___carrizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel___carrizo" height="30" width="40" /></a>
