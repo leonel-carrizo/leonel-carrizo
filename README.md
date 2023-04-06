@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leonel Carrizo</h1>
 <h3 align="center">💻 Software Development Apprentice | 🎓 H.N.C in Industrial Production <br>| ⛰️🏕️🌄🌁 Lover of nature and adventure.</h3><br>
 
-- 🔭 I’m currently working on my **Software development skills**
+- 🔭 I’m currently working on my **Software development skills.**
 
-- 🌱 I’m currently learning **HTML, CSS, Python, JavaScript, ReactJS, DJango,C**
+- 🌱 I’m currently learning **HTML, CSS, Python, JavaScript, ReactJS, DJango, C.**
 
-- 🤝 I’m looking for help with **ReactJS, DJango, Flask, C**
+- 🤝 I’m looking for help with **ReactJS, DJango, Flask, C.**
 
 - 👨‍💻 All of my projects are available at [leonelcarrizo.com](https://leonelcarrizo.com)
 
