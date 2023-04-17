@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on my **Software development skills.**
 
-- 🌱 I’m currently learning **HTML, CSS, Python, JavaScript, ReactJS, DJango, C.**
+- 🌱 I’m currently learning **Shell, Python, C and CyberSecurity.**
 
-- 🤝 I’m looking for help with **ReactJS, DJango, Flask, C.**
+- 🤝 I’m looking for help with **CyberSecurity, IT, Networking.**
 
 - 👨‍💻 All of my projects are available at [leonelcarrizo.com](https://leonelcarrizo.com)
 
