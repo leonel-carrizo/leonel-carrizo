@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Software development skills.**
 
-- 🌱 I’m currently learning **C, CyberSecurity, React and Python,**
+- 🌱 I’m currently learning **C**
 
 - 🤝 I’m looking for help with **CyberSecurity, IT, Networking.**
 
