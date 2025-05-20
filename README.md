@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 🤝 I’m looking for help with **CyberSecurity, IT, Networking.**
+- 🤝 I’m looking to learn **Rust, Python, JavaScript, Networking.**
 
 - 👨‍💻 All of my projects are available at [leonelcarrizo.com](https://leonelcarrizo.com)
 
