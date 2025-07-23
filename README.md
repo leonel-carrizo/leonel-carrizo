@@ -2,17 +2,25 @@
 <h3 align="center">💻 Software Development Apprentice | 🎓 H.N.D in Industrial Production <br>| ⛰️🏕️🌄🌁 I love sunsets.</h3><br>
 
 <div align="center">
-  - 🔭 I’m currently working on my <strong>Software development skills.</strong><br><br>
-  - 🌱 I’m currently learning <strong>C</strong>, <strong>Networking</strong>.<br><br>
-  - 🤝 I’m looking to learn <strong>Rust, Go, Docker.</strong>
+  <table>
+    <tr>
+      <td align="left" width="560">
+        🔭 I’m currently working on my <strong>Software development skills.</strong><br><br>
+        🌱 I’m currently learning <strong>C, Go, Networking</strong>.<br><br>
+        🔭I’m looking forward to collaborate on any <strong>Open Source project</strong>.<br><br>
+        🤝 I’m looking to learn <strong>Rust, Docker.</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
+<!---<p align="center"><a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=PushpneetSingh&show_icons=true&" alt="leonel-carrizo" /></a></p>--->
 
+<br>
 <p align="center"><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonel-carrizo&" alt="leonel-carrizo" /></a></p>
 <br>
 <p align="center"><a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonel-carrizo&show_icons=true&locale=en&layout=compact" alt="leonel-carrizo" /></a></p>
-
 <br>
 
 <h3 align="center" >Languages and Tools:</h3>
@@ -27,7 +35,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!---<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> --->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <!---<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>---> 
 </p> <br>
 <h3 align="center">Connect with me:</h3>
