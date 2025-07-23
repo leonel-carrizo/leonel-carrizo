@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Leonel Carrizo</h1>
 <h3 align="center">💻 Software Development Apprentice | 🎓 H.N.D in Industrial Production <br>| ⛰️🏕️🌄🌁 I love sunsets.</h3><br>
 
-- 🔭 I’m currently working on my **Software development skills.**
-
-- 🌱 I’m currently learning **C**, **Networking**.
-
-- 🤝 I’m looking to learn **Rust, Go, Docker.**
+<div align="center">
+  - 🔭 I’m currently working on my <strong>Software development skills.</strong><br><br>
+  - 🌱 I’m currently learning <strong>C</strong>, <strong>Networking</strong>.<br><br>
+  - 🤝 I’m looking to learn <strong>Rust, Go, Docker.</strong>
+</div>
 
 <br>
 
-<p align="center"><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonel-carrizo&" alt="leonel-carrizo" /></a></p><br>
+<p align="center"><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonel-carrizo&" alt="leonel-carrizo" /></a></p>
+<br>
 <p align="center"><a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonel-carrizo&show_icons=true&locale=en&layout=compact" alt="leonel-carrizo" /></a></p>
 
 <br>
@@ -32,7 +33,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="mailto:info@leonelcarrizo.com" target="blank" rel="nofollow"><img align="center" src="https://github.com/leonel-carrizo/leonel-carrizo/blob/main/mail-email-svgrepo-com.svg" alt="info@leonelcarrizo.com" height="30" width="40" /></a>  
+<a href="mailto:hello@leonelcarrizo.com" target="blank" rel="nofollow"><img align="center" src="https://github.com/leonel-carrizo/leonel-carrizo/blob/main/mail-email-svgrepo-com.svg" alt="info@leonelcarrizo.com" height="30" width="40" /></a>  
 <a href="https://twitter.com/_leocarrizo" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_leocarrizo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonel-carrizo/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonel-carrizo/" height="30" width="40" /></a>
 </p>
