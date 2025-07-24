@@ -18,7 +18,7 @@
 <!---<p align="center"><a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=PushpneetSingh&show_icons=true&" alt="leonel-carrizo" /></a></p>--->
 
 <br>
-<p align="center"><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonel-carrizo&" alt="leonel-carrizo" /></a></p>
+<p align="center"><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonel-carrizo" alt="leonel-carrizo" /></a></p>
 <br>
 <p align="center"><a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonel-carrizo&show_icons=true&locale=en&layout=compact" alt="leonel-carrizo" /></a></p>
 <br>
