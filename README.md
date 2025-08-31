@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td align="left" width="560">
-        🔭 I’m currently working on my <strong>Software development skills.</strong><br><br>
+        🔭 I’m currently working on my <strong>IT and Software development skills.</strong><br><br>
         🌱 I’m currently learning <strong>C, Go, Networking</strong>.<br><br>
         🔭I’m looking forward to collaborate on any <strong>Open Source project</strong>.<br><br>
         🤝 I’m looking to learn <strong>Rust, Docker.</strong>
